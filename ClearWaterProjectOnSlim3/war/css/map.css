@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+html,body,form{width:98%; height:98%; margin: 0px; padding: 0px;}
+table.top_table{width: 100%;}
+table.header_td {width: 100%; }
+#m_header {height:60px; position:relative;  margin-top: 0px; background-image:url(/img/header_background.jpg); }
+#m_body   {height:85% ; width:100%; position:relative;  margin-top: 0px;  }
+#m_footer {height:10%; position:relative;  margin-top: 0px; }
+.logo { left: 0px; top: 0px; height:59px; width:217px; position:absolute; }
+table ht.header_left {float:left; }
+table ht.header_center {float:right; }
+table ht.header_right {float:right; }
+#info { height:100% ;width:30%; float:left;}
+#map  { height:100% ;width:70%; float:right;}
+#ads { float: bottom; width: 100%; height:10%; margin: 4px; }
+.place{
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	margin-top: -1px;
+	padding: 4px;
+}
+.nickname {font-weight: bold; color: #4444ff;}
+.elapseTime {font-size: 75%; color: #8888ff;}
+.infowindow {margin: 5px 20px; }
+
+ul {
+	list-style-type:none;
+}

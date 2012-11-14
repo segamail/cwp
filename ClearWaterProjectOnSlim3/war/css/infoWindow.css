@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+.infoContainer{width:100%; height:99%; font-size:small; margin-bottom:0px;font-weight: nomal;overflow: auto;}
+.line {border-bottom: 1px solid blue;}
+.optionContainer{text-align:left;}
+.optionContainerTh{text-align:left;}
+.waterInfoMainCommentLeft {width:50px;}
+.waterInfoMainCommentRight {width:440px; text-align:left;}
+.waterInfoSubCommentLeft {width:50px;}
+.waterInfoSubCommentRight {width:440px; text-align:left;}
+.waterInfoEditSubComment {width:10px; hight:10px; float:right;cursor: pointer;}
+.editSubCommentSlideBox {border: 1px #ccc solid; display:none; float:right;　cursor: pointer;}
+.waterInfoMainCommentUserPic {width:30px; hight:30px;}
+.waterInfoSubCommentUserPic {width:30px; hight:30px;}
+.waterInfoSubCommentContainer{background-color:#99CCFF;margin-bottom:1px;margin-top:0;}
+.waterInfoAddCommentContainer{background-color:#99CCFF;margin-bottom:1px;margin-top:0;}
+
